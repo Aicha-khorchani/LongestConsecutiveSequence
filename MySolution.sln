@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWinApp", "MyWinApp\MyWinApp.csproj", "{37C03765-11A9-449D-9D5C-8AD1D3D10B2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceCLI", "SequenceCLI\SequenceCLI.csproj", "{2CF36058-9D6B-4600-A418-7F8B3BAD4DD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37C03765-11A9-449D-9D5C-8AD1D3D10B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C03765-11A9-449D-9D5C-8AD1D3D10B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C03765-11A9-449D-9D5C-8AD1D3D10B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C03765-11A9-449D-9D5C-8AD1D3D10B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF36058-9D6B-4600-A418-7F8B3BAD4DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF36058-9D6B-4600-A418-7F8B3BAD4DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF36058-9D6B-4600-A418-7F8B3BAD4DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF36058-9D6B-4600-A418-7F8B3BAD4DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
